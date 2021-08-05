@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kavaglam/static/css/main.123857ec.chunk.css",
-    "main.js": "/kavaglam/static/js/main.de46dc3a.chunk.js",
-    "main.js.map": "/kavaglam/static/js/main.de46dc3a.chunk.js.map",
+    "main.css": "/kavaglam/static/css/main.f6d6aafd.chunk.css",
+    "main.js": "/kavaglam/static/js/main.ec511122.chunk.js",
+    "main.js.map": "/kavaglam/static/js/main.ec511122.chunk.js.map",
     "runtime-main.js": "/kavaglam/static/js/runtime-main.a9108b05.js",
     "runtime-main.js.map": "/kavaglam/static/js/runtime-main.a9108b05.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/kavaglam/static/css/2.4c97ca4f.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.5e365a9d.chunk.js.map": "/kavaglam/static/js/2.5e365a9d.chunk.js.map",
     "index.html": "/kavaglam/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/kavaglam/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.123857ec.chunk.css.map": "/kavaglam/static/css/main.123857ec.chunk.css.map",
+    "static/css/main.f6d6aafd.chunk.css.map": "/kavaglam/static/css/main.f6d6aafd.chunk.css.map",
     "static/js/2.5e365a9d.chunk.js.LICENSE.txt": "/kavaglam/static/js/2.5e365a9d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9108b05.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.5e365a9d.chunk.js",
-    "static/css/main.123857ec.chunk.css",
-    "static/js/main.de46dc3a.chunk.js"
+    "static/css/main.f6d6aafd.chunk.css",
+    "static/js/main.ec511122.chunk.js"
   ]
 }
