@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/kavaglam/static/css/main.f108e754.chunk.css",
-    "main.js": "/kavaglam/static/js/main.b6d7c97b.chunk.js",
-    "main.js.map": "/kavaglam/static/js/main.b6d7c97b.chunk.js.map",
+    "main.js": "/kavaglam/static/js/main.b703aaa0.chunk.js",
+    "main.js.map": "/kavaglam/static/js/main.b703aaa0.chunk.js.map",
     "runtime-main.js": "/kavaglam/static/js/runtime-main.3d13880e.js",
     "runtime-main.js.map": "/kavaglam/static/js/runtime-main.3d13880e.js.map",
     "static/css/2.27dd871e.chunk.css": "/kavaglam/static/css/2.27dd871e.chunk.css",
-    "static/js/2.97ad6fd2.chunk.js": "/kavaglam/static/js/2.97ad6fd2.chunk.js",
-    "static/js/2.97ad6fd2.chunk.js.map": "/kavaglam/static/js/2.97ad6fd2.chunk.js.map",
+    "static/js/2.d5a81c19.chunk.js": "/kavaglam/static/js/2.d5a81c19.chunk.js",
+    "static/js/2.d5a81c19.chunk.js.map": "/kavaglam/static/js/2.d5a81c19.chunk.js.map",
     "index.html": "/kavaglam/index.html",
     "static/css/2.27dd871e.chunk.css.map": "/kavaglam/static/css/2.27dd871e.chunk.css.map",
     "static/css/main.f108e754.chunk.css.map": "/kavaglam/static/css/main.f108e754.chunk.css.map",
-    "static/js/2.97ad6fd2.chunk.js.LICENSE.txt": "/kavaglam/static/js/2.97ad6fd2.chunk.js.LICENSE.txt"
+    "static/js/2.d5a81c19.chunk.js.LICENSE.txt": "/kavaglam/static/js/2.d5a81c19.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3d13880e.js",
     "static/css/2.27dd871e.chunk.css",
-    "static/js/2.97ad6fd2.chunk.js",
+    "static/js/2.d5a81c19.chunk.js",
     "static/css/main.f108e754.chunk.css",
-    "static/js/main.b6d7c97b.chunk.js"
+    "static/js/main.b703aaa0.chunk.js"
   ]
 }
